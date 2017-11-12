@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: SC Blog
+SEOTitle: Sicheng 的 博客 | SC Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+description: "欢迎访问！"
+keyword: "Android, SC, iOS, Apple, iPhone"
+url: "http://csc0330.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/sichengchen/sichengchen.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,11 +18,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+weibo_username:     scc0330
+zhihu_username:     chen-guo
+github_username:    sichengchen
+facebook_username:  chensixchen
 #twitter_username:   qiubaiying
 
 
@@ -55,8 +54,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+Disqus settings（https://disqus.com/）
+disqus_username: Sicheng
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
@@ -71,8 +70,8 @@ disqus_username: qiubaiying
 # Baidu Analytics
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
-# Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+Google Analytics
+ga_track_id: 'UA-109511095-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
 
 
@@ -94,16 +93,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "红石云",
+        href: "http://mc.csc0330.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "小米",
+        href: "http://www.mi.com/"
     },{
         title: "Apple",
         href: "https://apple.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Coolapk",
+        href: "https://coolapk.com/"
     }
 ]
