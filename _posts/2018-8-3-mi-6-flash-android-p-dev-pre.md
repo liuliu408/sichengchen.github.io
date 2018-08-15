@@ -19,7 +19,7 @@ tags:
     - Android
 
 ---
-[在本站全球版查看 Global version][1]
+[在本站全球版查看 Global version](http://global.scchan.com/2018/08/18-8-36android-p.html)
 ## 刷入Recovery ##
 这里是先获取的MIUI Root权限，需要打开系统安全中心，开启Root权限。具体方式在此不列出请自行查询。
 获取Root后从酷安网下载TWRP的app（包名：me.twrp.twrpapp），用于刷入Recovery。选择合适的Recovery刷入。当然，adb也行，具体使用那种方式取决于你的习惯。
@@ -52,4 +52,3 @@ Recovery：`https://sagit.sbwml.net/?dir=tools/Recovery-treble`
 
 ## 开始使用 ##
 到此，若没有出现问题你将进入Android P。
-[1]:http://global.scchan.com/2018/08/18-8-36android-p.html
